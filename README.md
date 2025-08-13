@@ -1,32 +1,4 @@
-> 友情提示：因为提供了 50000+ 行示例代码，所以艿艿默认注释了所有 Maven Module。
->
-> 胖友可以根据自己的需要，修改 [`pom.xml`](https://github.com/YunaiV/SpringBoot-Labs/blob/master/pom.xml) 即可。
-
-一个涵盖六个主流技术栈的**正经**仓库：
-* [《Spring Boot 专栏》](https://github.com/YunaiV/SpringBoot-Labs#spring-boot-%E4%B8%93%E6%A0%8F)
-* [《Spring Cloud Alibaba 专栏》](https://github.com/YunaiV/SpringBoot-Labs#spring-cloud-alibaba-%E4%B8%93%E6%A0%8F)
-* [《Spring Cloud 专栏》](https://github.com/YunaiV/SpringBoot-Labs#spring-cloud-%E4%B8%93%E6%A0%8F)
-* [《Dubbo 专栏》](https://github.com/YunaiV/SpringBoot-Labs#Dubbo-%E4%B8%93%E6%A0%8F)
-* [《消息队列 MQ 专栏》](https://github.com/YunaiV/SpringBoot-Labs#%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97-mq-%E4%B8%93%E6%A0%8F)
-* [《分布式事务专栏》](https://github.com/YunaiV/SpringBoot-Labs#分布式事务专栏)
-
-作为一个热爱**深夜**撸码的 18 岁头发茂密的可爱小男孩，希望大佬能够**一键三连**。
-
-![一间三连](http://static.iocoder.cn/github-star.jpg)
-
-> **亲，一键三连啊**
-
-# 交流群
-
-扫码如下**二维码**，回复「艿艿」关键字。
-
-可以添加 18 岁的我为好友，并拉你进一个~~交流~~**装逼群**。
-
-![骚气的二维码](http://www.iocoder.cn/images/common/erweima.jpg)
-
-😈 等后面，艿艿**头发**重新长一点出来，给旁友们录制点视频哈！
-
-# Spring Boot 专栏
+Spring Boot 专栏
 
 基于 Spring Boot 2.X 版本的**深度**入门教程。
 
@@ -196,7 +168,7 @@
 * [《芋道 Spring Cloud 链路追踪 SkyWalking 入门》](http://www.iocoder.cn/Spring-Cloud/SkyWalking/?github) 对应 [labx-14](https://github.com/YunaiV/SpringBoot-Labs/tree/master/labx-14)
 * [《芋道 Dubbo Admin 快速入门》](http://www.iocoder.cn/Dubbo/Admin/?github)
 * [《芋道 Dubbo Swagger 快速入门》](http://www.iocoder.cn/Dubbo/Swagger/?github) 对应 [swagger-dubbo](https://github.com/YunaiV/swagger-dubbo)
- 
+
 # Spring Cloud 专栏
 
 ## 注册中心
